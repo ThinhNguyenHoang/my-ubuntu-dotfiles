@@ -273,5 +273,5 @@ export JAVA_HOME=/home/thinh/.jdks/corretto-11.0.15
 export PATH=${PATH}:${JAVA_HOME}/bin
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH" 
 
-# Custom aliases 
-alias ls='lsd'
+# # Custom aliases 
+# alias ls='lsd'
